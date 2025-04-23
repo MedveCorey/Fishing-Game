@@ -12,6 +12,6 @@ opt-level = 1
 opt-level = 3
 
 [dependencies]
-bevy = "0.14"
+bevy = "0.15"
 rand = "0.8.5"
 lazy_static = "1.5.0"
